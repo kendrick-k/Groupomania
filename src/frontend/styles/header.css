@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  margin: 0% 0% 3% 0%;
+  padding: 2%;
+  background-color: #ffd7d7;
+}
+
+.nav {
+  justify-content: flex-end;
+  display: flex;
+  width: 1024px;
+  align-items: center;
+}
+
+.post {
+  margin-right: 50px;
+  text-decoration: none;
+}
+
+.compte {
+  text-decoration: none;
+}
+
+.logo {
+  width: 25%;
+  display: flex;
+}
+.ico {
+  color: #fd2d01;
+  margin-right: 10px;
+}

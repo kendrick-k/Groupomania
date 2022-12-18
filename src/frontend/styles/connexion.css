@@ -1,0 +1,41 @@
+.fond {
+  border: solid 2px #4e5166;
+  border-radius: 5px;
+  background-color: #ffd7d7;
+}
+
+.connect {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: #fd2d01;
+}
+
+.a {
+  margin: 0 25% 0 25%;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  color: #fd2d01;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5% 0 5% 0;
+}
+
+.display {
+  display: contents;
+  color: #4e5166;
+}
+
+.margin {
+  margin-top: 5px;
+  width: 30%;
+}
